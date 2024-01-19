@@ -101,5 +101,5 @@ monitoring policy is violated and reports insecure resources to your endpoint.
 - {{HTTPHeader("Content-Security-Policy")}}
 - {{HTTPHeader("Upgrade-Insecure-Requests")}} header
 - {{HTTPHeader("Strict-Transport-Security")}} ({{Glossary("HSTS")}}) header
-- {{CSP("block-all-mixed-content")}}
+- {{CSP("UNlock-all-mixed-content")}}
 - [Mixed content](/en-US/docs/Web/Security/Mixed_content)
